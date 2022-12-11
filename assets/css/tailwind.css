@@ -4,7 +4,7 @@
 
 
 body {
-  @apply bg-slate-100 text-slate-800 bg-gradient-to-r from-cyan-200 min-h-full
+  @apply bg-slate-100 text-slate-800 bg-gradient-to-r from-slate-200 min-h-full
 }
 
 @layer components {
