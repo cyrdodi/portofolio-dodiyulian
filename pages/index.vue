@@ -1,10 +1,11 @@
 <template>
   <div class="flex justify-center mt-28">
-    <div class="md:flex items-center gap-20">
+    <div class="md:flex-row items-center gap-20 flex-col-reverse flex">
       <!-- section -->
       <div>
         <h1 class="text-6xl font-bold">
-          Halo, Saya <span class="text-cyan-600">Dodi Yulian</span>
+          Halo&#128075;, Saya
+          <span class="text-cyan-600">Dodi Yulian</span>
         </h1>
         <p class="mt-6 text-3xl">Saya seorang Web Developer</p>
         <hr class="my-7" />
@@ -46,7 +47,7 @@
         </div>
       </div>
       <!-- avatar -->
-      <div class="mt-10 md:mt-0">
+      <div class="">
         <img
           src="~/assets/img/avatar.png"
           alt="avatar"
