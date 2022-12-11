@@ -8,7 +8,7 @@
           <span class="text-cyan-600">Dodi Yulian</span>
         </h1>
         <p class="mt-6 text-3xl">Saya seorang Web Developer</p>
-        <hr class="my-7" />
+        <div class="border-b border-b-slate-400 my-6"></div>
         <!-- links -->
         <div>Temukan saya di:</div>
         <div class="flex gap-4 mt-2">
