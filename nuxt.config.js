@@ -7,14 +7,7 @@ export default defineNuxtConfig({
       {
         families: {
           'Chivo Mono': true,
-        },
-        subsets: ['latin'],
-        display: 'swap',
-        prefetch: false,
-        preconnect: false,
-        preload: false,
-        download: true,
-        base64: false,
+        }
       },
     ],
   ]
